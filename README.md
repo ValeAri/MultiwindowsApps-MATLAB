@@ -1,5 +1,5 @@
 # MultiwindowsApps-MATLAB #
-A small example for showing how to pass information between a main app and a dialog box and back in MATLAB.
+A small example for showing how to pass information between a main app and a dialog box and back in Matlab.
 
 ## Description: ##
 #### MainApp: ####
