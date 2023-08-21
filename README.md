@@ -1,7 +1,7 @@
-# MultiwindowsApps-MATLAB
+# MultiwindowsApps-MATLAB #
 A small example for showing how to pass information between a main app and a dialog box and back in MATLAB.
 
-Description:
+## Description: ##
 #### MainApp: ####
 * Basic Matlab application with a Parameter numeric edit field and an Estimate button.
 * The Estimate button functionality includes opening a dialog box
@@ -13,6 +13,7 @@ Description:
 * The result of this calculation should be displayed in the Parameter numeric edit field within the main application.
 
 
-References:
-https://www.mathworks.com/help/matlab/creating_guis/creating-multiwindow-apps-in-app-designer.html
-https://www.youtube.com/watch?v=u0jgIWAxf0Y
+### References: ###
+
+1. https://www.mathworks.com/help/matlab/creating_guis/creating-multiwindow-apps-in-app-designer.html
+2. https://www.youtube.com/watch?v=u0jgIWAxf0Y
